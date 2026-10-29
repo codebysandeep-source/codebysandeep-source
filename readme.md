@@ -1,186 +1,126 @@
 <div align="center">
-<!-- =============== HERO SECTION =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0D1117,50:211A45,100:512BD4&text=Sandeep%20Chauhan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=65&descColor=C4B5FD&animation=fadeIn" alt="Sandeep Chauhan - Full Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8B5CF6,50:512BD4,100:0D1117" alt="Purple divider"/>
 
-<br/>
+<table border="0">
+<tr>
+<td width="65%" valign="middle">
 
-### Building Web Applications & Desktop Solutions
+# Sandeep Chauhan
 
-I build practical software using **Angular, C#, .NET, and SQL databases.**
+###### Full Stack Web Developer
+
+Building modern web applications and desktop solutions with **Angular, C#, .NET, and SQL**.
 
 <br/>
 
 <a href="https://sanpage.in">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/sandeepkumarchauhan/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
-
-<a href="https://sanpage.in">🌐 sanpage.in</a>
-&nbsp; • &nbsp;
-<a href="mailto:sandeepkc422@gmail.com">✉️ Contact Me</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-
-</div>
-
-<!-- =============== END HERO SECTION =============== -->
-
----
-# 👋 Hey, I'm Sandeep Chauhan
-
-### FULL STACK WEB DEVELOPER
-
-**Building web applications and desktop software with modern technologies.**
-
-<br/>
-
-<a href="https://sanpage.in">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-sanpage.in-7C3AED?style=for-the-badge" alt="Visit Portfolio"/>
-</a>
-
-<a href="https://linkedin.com/in/sandeepkumarchauhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-*Turning ideas into practical, reliable software.*
-
-</div>
-
----
-
-## `01` &nbsp; About Me
-
-I'm a Full Stack Web Developer who enjoys building applications, solving technical problems, and learning new technologies.
-
-- 🌐 **Web Development** — Angular, TypeScript, C# and .NET Web API.
-- 🖥️ **Desktop Development** — C# and .NET desktop applications.
-- ⚙️ **Backend Development** — REST APIs, application logic and integrations.
-- 🗄️ **Database Development** — MySQL and Microsoft SQL Server.
-- 🚀 **My Approach** — Clean code, practical solutions and continuous improvement.
-
----
-
-## `02` &nbsp; Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-### Backend & Desktop Development
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-</p>
-
----
-
-## `03` &nbsp; What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Applications
-
-Developing responsive web applications with Angular, TypeScript, C# and .NET Web API.
-
 </td>
-<td width="50%" valign="top">
+<td width="35%" align="center" valign="middle">
 
-### 🖥️ Desktop Applications
-
-Building Windows desktop applications with C# and .NET, including database integration and application services.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ REST APIs
-
-Creating APIs that connect frontend applications, backend services and external systems.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Database Solutions
-
-Working with MySQL and Microsoft SQL Server to manage application data and support reliable database operations.
+<img src="https://github.com/codebysandeep-source.png" width="200" alt="Sandeep Chauhan's Profile Picture"/>
 
 </td>
 </tr>
 </table>
 
----
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8B5CF6,50:512BD4,100:0D1117" alt="Purple divider"/> -->
 
-## `04` &nbsp; Find Me Online
+</div>
 
-<div align="center">
 
-### Interested in my work?
 
-Explore my portfolio to learn more about me and my development work.
+</div>
 
-<br/>
+
+
+## 01 · About Me
+
+I'm a Full Stack Web Developer with **4 years of experience in web application development**. I enjoy building useful software, solving technical challenges, and exploring new technologies.
+
+- 💻 Develop web applications and Windows desktop software.
+- 🔌 Build REST APIs and backend services using C# and .NET.
+- 🗄️ Work with relational databases and application data.
+- 🚀 Focus on maintainable code, practical solutions, and continuous learning.
+
+## 02 · Technology Stack
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+</p>
+
+## 03 · What I Work On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Creating interactive web applications with Angular and TypeScript, backed by .NET APIs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ Desktop Software</h3>
+      Developing Windows applications with C# and .NET, including hardware communication and database integration.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend Engineering</h3>
+      Building REST APIs, application services, authentication, and integrations between systems.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Messaging & Data</h3>
+      Working with SQL databases, TCP communication, and RabbitMQ-based messaging workflows.
+    </td>
+  </tr>
+</table>
+
+
+<div align="center" style="background:#f1f1f1;padding:20px">
+
+### Let's Build Something Useful.
+
+Open to learning, collaboration, and interesting software development challenges.
 
 <a href="https://sanpage.in">
-  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
 </a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/sandeepkumarchauhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sandeepkc422@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/sandeep.kr.ch/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-*Always learning. Always building. Always improving.*
 
 </div>
