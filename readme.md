@@ -56,7 +56,7 @@ I’m a Full Stack Web Developer passionate about building practical, reliable, 
 
 ### Database and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,aws,firebase" alt="Databases and development tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,firebase" alt="Databases and development tools"/>
 </p>
 
 ---
@@ -64,10 +64,9 @@ I’m a Full Stack Web Developer passionate about building practical, reliable, 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=frontpagebluebird&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontpagebluebird&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=frontpagebluebird&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Statistics"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=frontpagebluebird&layout=compact&theme=tokyonight&hide_border=true" alt="Sandeep's Most Used Languages"/>
 </p>
-
 ---
 
 ## 🌍 Visit My Portfolio
