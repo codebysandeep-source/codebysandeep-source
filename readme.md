@@ -1,5 +1,45 @@
 <div align="center">
+<!-- =============== HERO SECTION =============== -->
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0D1117,50:211A45,100:512BD4&text=Sandeep%20Chauhan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=65&descColor=C4B5FD&animation=fadeIn" alt="Sandeep Chauhan - Full Stack Web Developer"/>
+
+<br/>
+
+### Building Web Applications & Desktop Solutions
+
+I build practical software using **Angular, C#, .NET, and SQL databases.**
+
+<br/>
+
+<a href="https://sanpage.in">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sandeepkumarchauhan/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://sanpage.in">🌐 sanpage.in</a>
+&nbsp; • &nbsp;
+<a href="mailto:sandeepkc422@gmail.com">✉️ Contact Me</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+
+</div>
+
+<!-- =============== END HERO SECTION =============== -->
+
+---
 # 👋 Hey, I'm Sandeep Chauhan
 
 ### FULL STACK WEB DEVELOPER
