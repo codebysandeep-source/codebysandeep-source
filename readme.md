@@ -33,10 +33,11 @@ I’m a Full Stack Web Developer passionate about building practical, reliable, 
 ## 👨‍💻 About Me
 
 - 💻 I develop web applications using Angular and C#/.NET.
-- 🔧 I work with REST APIs and relational databases.
-- 🗄️ I use MySQL for database development.
+- 🖥️ I build desktop applications using C# and .NET.
+- 🔧 I develop and integrate REST APIs.
+- 🗄️ I work with MySQL and Microsoft SQL Server for database development.
 - 🌱 I continuously learn new technologies and improve my development skills.
-- 🎯 My goal is to build scalable applications and write clean, maintainable code.
+- 🎯 I focus on building scalable applications with clean, maintainable code.
 - 🤝 I enjoy learning, collaborating, and solving real-world problems.
 
 ---
